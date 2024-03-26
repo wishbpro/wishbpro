@@ -2,9 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me through github
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me https://twitter.com/Wishbpro
+
 
 <!---
 wishbpro/wishbpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
